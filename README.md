@@ -3,6 +3,7 @@
 >This script can click in all types : Survival, Classic, Combo, Hattrick, Random, Endless.
 
 # Guide
+> 1. Open website [invokergame](https://www.invokergame.com/)
 
 > 1. Paste to console in u browser code, start game and watch :)
 
